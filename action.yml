@@ -4,7 +4,7 @@ author: 'grassedge'
 inputs:
   path:
     description: 'path to directory which generated svg is stored'
-    default: '.'
+    default: './example'
   message:
     description: 'the commit message when committing generated images'
     default: 'Render PlantUML files'
