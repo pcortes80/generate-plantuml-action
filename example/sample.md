@@ -10,6 +10,7 @@ boundary Foo2
 control Foo3
 entity Foo4
 database Foo5
+database Foo5_1
 collections Foo6
 Foo1 -> Foo2 : To boundary
 Foo1 -> Foo3 : To control
